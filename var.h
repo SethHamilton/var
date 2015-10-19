@@ -2,6 +2,8 @@
 
 var - a variant type for C++ that works much like a 'var' in JavaScript
 
+version - 1.0
+
 Features:
 
 - assignment operator overloads so you can assign using =
